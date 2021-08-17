@@ -1,5 +1,7 @@
 # Import (AWS S3) , Cleansing and Transform Covid19 cases data using PySpark
 
+![Overview](./overview_pipeline_covid19.png)
+
 == Steps ==
 1. Import Covid19 dataset from AWS S3 (using datasource from data.go.th)
 2. Drop uninterested columns
